@@ -1,0 +1,87 @@
+.header{
+    text-align: center;
+    
+}
+.riddle{
+    text-align: center;
+    font-size: 75px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #5A5F53;
+    color: white;
+}
+.intro{
+    text-align: center;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #5A5F53;
+    color: white;
+}
+.usage{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #5A5F53;
+    color: white;
+}
+.cons{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #5A5F53;
+    color: white;
+}
+.sources{
+    text-align: center;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #5A5F53;
+    color: white;
+}
+
+.health{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #5A5F53;
+    color: white;
+}
+body{
+    background-color: #5A5F53;
+}
+a:link{
+    color: white;
+    font-size: 20px;
+}
+a:visited{
+    color: white;
+    font-size: 20px;
+}
+.water{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.riddle2:hover{
+    transform: scale(1.2);
+}
+.intro2:hover{
+    transform: scale(1.2);
+}
+.cons2:hover{
+    transform: scale(1.2);
+}
+.sources2:hover{
+    transform: scale(1.2);
+}
+.health2:hover{
+    transform: scale(1.2);
+}
+.usage2:hover{
+    transform: scale(1.2);
+}
+.misuse2:hover{
+    transform: scale(1.2);
+}
+.img{
+    text-align: center;
+}
